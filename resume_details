@@ -15,3 +15,11 @@ Developed and maintained Python scripts for automation of migration processes an
 Implemented Infrastructure as Code using Terraform for resource provisioning and configuration management
 Created and maintained Jenkins pipelines for continuous integration and deployment of migration scripts
 Collaborated with cross-functional teams to ensure smooth transition and knowledge transfer
+
+
+Led successful migration of CloudSQL databases to GCP, ensuring zero data loss and minimal downtime for a major financial services client
+Spearheaded Pub/Sub messaging system migration
+Contributed to Google Cloud Storage (GCS) and BigQuery migration initiatives
+Developed and maintained Python scripts for automation of migration processes and data validation
+Implemented Infrastructure as Code using Terraform for resource provisioning and configuration management
+Created and maintained Jenkins pipelines for continuous integration and deployment of migration scripts
