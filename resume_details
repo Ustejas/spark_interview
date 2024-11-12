@@ -1,1 +1,17 @@
-Results-driven Cloud & Data Engineer with 2.8 years of hands-on experience, distinguished by successfully leading mission-critical CloudSQL database migrations and Pub/Sub messaging system implementations in GCP environment. Proven expertise in architecting comprehensive cloud solutions encompassing BigQuery and GCS platforms while developing efficient automation solutions using Python and SQL. Demonstrated ability to drive technical initiatives, mentor team members, and deliver scalable solutions through infrastructure automation and cloud-native technologies
+Results-driven Cloud & Data Engineer with 2.8 years of hands-on experience,
+distinguished by successfully leading mission-critical CloudSQL database migrations and Pub/Sub messaging system 
+implementations in GCP environment. Proven expertise in architecting comprehensive cloud solutions encompassing BigQuery and GCS platforms
+while developing efficient automation solutions using Python and SQL. Demonstrated ability to drive technical initiatives, mentor team members,
+and deliver scalable solutions through infrastructure automation and cloud-native technologies
+
+
+
+Cloud Migration Project
+
+Led successful migration of CloudSQL databases to GCP, ensuring zero data loss and minimal downtime for a major financial services client
+Spearheaded Pub/Sub messaging system migration, implementing reliable data streaming pipelines for real-time data processing
+Contributed to Google Cloud Storage (GCS) and BigQuery migration initiatives, optimizing data warehouse performance and accessibility
+Developed and maintained Python scripts for automation of migration processes and data validation
+Implemented Infrastructure as Code using Terraform for resource provisioning and configuration management
+Created and maintained Jenkins pipelines for continuous integration and deployment of migration scripts
+Collaborated with cross-functional teams to ensure smooth transition and knowledge transfer
